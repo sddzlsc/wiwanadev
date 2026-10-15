@@ -31,3 +31,6 @@ package.json.[0-9]*
 .sync
 history/*.json
 .vite_cache
+
+# 秒哒导出的后端备份（含数据库 dump 与密钥），保留在本地，不推送到公开仓库
+supabase/
