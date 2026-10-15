@@ -49,7 +49,7 @@
     "input-otp": "^1.4.2",
     "ky": "^1.13.0",
     "lucide-react": "^0.576.0",
-    "miaoda-react-devkit": "^0.1.1-beta.22",
+    "miaoda-react-devkit": "0.1.1-beta.22",
     "miaoda-sc-plugin": "1.0.73",
     "motion": "^12.23.25",
     "next-themes": "^0.4.6",
@@ -74,7 +74,7 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.4.5",
+    "@biomejs/biome": "2.5.12",
     "@tailwindcss/container-queries": "^0.1.1",
     "@testing-library/jest-dom": "^6.10.0",
     "@testing-library/react": "^16.3.2",
